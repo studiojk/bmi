@@ -1,0 +1,51 @@
+.page-header {
+	font-family: 'Righteous', cursive;
+	border-bottom: solid 5px yellow;
+	padding: 10px;
+	
+}
+
+h1 img {
+	padding: 0.3em;
+}
+
+.page-content {
+	background-image: url('export.png');
+	background-size: cover;
+	height: 640px;
+	width: 480px;
+	border-bottom: solid 5px yellow;
+}
+
+#icontick {
+	padding-left: 150px;
+	padding-top: 1em;
+	padding-bottom: 1em;
+}
+
+.form-group {
+	margin: 30px;
+}
+
+
+
+
+
+form {
+	font-size: 2em;
+	
+	margin-right: 30px;
+	margin-left: 30px;
+	
+	
+	
+
+
+
+}
+
+.card {
+	padding: 10px;
+}
+ 
+
